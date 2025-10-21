@@ -1,8 +1,9 @@
 # TBMSG-3D-Visualizer
-Explore your Terminal Block Mining Simulation Game world in 3D
+Explore your [Terminal Block Mining Simulation Game](https://github.com/RobertElderSoftware/robert-elder-software-java-modules/releases) world in 3D
+
 
 ## Instructions
-1. Copy your `block-mining-simulation-game` folder into this directory
+1. Copy your world-1.sqlite into the block-mining-simulation-game directory
 1. Excute `dotnet run` in your terminal
 1. WASD navigation
 1. Press R to load the current area around you

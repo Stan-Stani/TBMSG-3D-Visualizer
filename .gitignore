@@ -54,4 +54,5 @@ TestResult.xml
 nunit-*.xml
 
 # TBMSG
-block-mining-simulation-game
+block-mining-simulation-game/*
+!block-mining-simulation-game/README.md
