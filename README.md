@@ -3,8 +3,8 @@ Explore your [Terminal Block Mining Simulation Game](https://github.com/RobertEl
 
 
 ## Instructions
-1. Copy your world-1.sqlite into the block-mining-simulation-game directory
-1. Excute `dotnet run` in your terminal
+1. Copy your `world-1.sqlite` into the block-mining-simulation-game directory
+1. Execute `dotnet run` in your terminal
 1. WASD navigation
 1. Press R to load the current area around you
 
